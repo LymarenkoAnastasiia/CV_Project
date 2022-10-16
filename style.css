@@ -1,0 +1,54 @@
+.wrapper {
+    top: 30px;
+    border: 1px solid grey;
+}
+
+.contact-info {
+    top: 10px;
+    left: 230px;
+    width: 100%;
+    margin-left: 50px;
+}
+
+.education-section {
+    top: 300px;
+}
+
+.proffesional-experience-info {
+    top: 680px;
+}
+
+.information-detailed {
+    margin-left: 5%;
+    margin-top: -1%;
+}
+
+.information-main {
+    margin-top: 5%;
+    font-weight: bold;
+}
+
+h1, h2 {
+    margin-bottom: -2%;
+    color: rgb(18, 18, 207);
+}
+
+.fw-bold {
+    font-weight: bold;
+}
+
+.bg-color {
+    background-color: bisque;
+}
+
+.position-absolute {
+    position: absolute;
+}
+
+.position-from-left {
+    left: 30%;
+}
+
+.element-width {
+    width: 50%;
+}
